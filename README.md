@@ -1,3 +1,8 @@
+#this fork is for preservation purposes only, the code may change a lot in the future, so it may be harder for future generations to find where the code on "kobayashi maid dragon" Episode 5 - "Tohru's Real World Lessons! (She Thinks She Understands It Already)" - Frame 0238 out of 1006, came from.
+the ansewer is the file:
+webpy/web/session.py
+on  webpy / webpy  repository, but since this code may change in the future, i will leave this fork frozen.
+
 web.py is a web framework for Python that is as simple as it is powerful.
 
 Visit http://webpy.org/ for more information.
